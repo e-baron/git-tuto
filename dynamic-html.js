@@ -4,6 +4,9 @@ const PAGE_TITLE =
   "Demo : dynamic HTML generation & different ways to loop through an array";
 const FOOTER_TEXT = "Happy learning : )";
 
+// modification made by an external colleague
+hi ! I have introduced a fault...
+
 const LIBRARIES = [
   "Anime.js",
   "Three.js",
