@@ -4,6 +4,8 @@ const PAGE_TITLE =
   "Demo : dynamic HTML generation & different ways to loop through an array";
 const FOOTER_TEXT = "Happy learning : )";
 
+newFout : qw
+
 const LIBRARIES = [
   "Anime.js",
   "Three.js",
