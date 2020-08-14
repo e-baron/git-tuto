@@ -5,6 +5,7 @@ const PAGE_TITLE =
 const FOOTER_TEXT = "Happy learning : )";
 
 newFout : qw
+secondFout what ???
 
 const LIBRARIES = [
   "Anime.js",
