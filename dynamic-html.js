@@ -7,14 +7,6 @@ const FOOTER_TEXT = "Happy learning : )";
 // modification made by an external colleague
 hi ! I have introduced a fault...
 
-// new things ...
-
-<<<<<<< HEAD
-
-=======
-// NEW LOGIN COMPONENT
->>>>>>> add-login
-
 const LIBRARIES = [
   "Anime.js",
   "Three.js",
@@ -24,6 +16,8 @@ const LIBRARIES = [
   "Velocity",
   "...",
 ];
+
+// CHANGE
 
 const onClickHandler = (e) => {
   alert("Clicking here has indeed some effects!");
