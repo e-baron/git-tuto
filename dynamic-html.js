@@ -7,7 +7,11 @@ const FOOTER_TEXT = "Happy learning : )";
 // modification made by an external colleague
 hi ! I have introduced a fault...
 
+<<<<<<< HEAD
 
+=======
+// NEW LOGIN COMPONENT
+>>>>>>> add-login
 
 const LIBRARIES = [
   "Anime.js",
