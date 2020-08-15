@@ -7,6 +7,8 @@ const FOOTER_TEXT = "Happy learning : )";
 // modification made by an external colleague
 hi ! I have introduced a fault...
 
+// new things ...
+
 <<<<<<< HEAD
 
 =======
