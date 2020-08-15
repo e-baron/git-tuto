@@ -19,6 +19,10 @@ const LIBRARIES = [
 
 // CHANGE
 
+// new function
+function hi(){console.log("hi");}
+
+
 const onClickHandler = (e) => {
   alert("Clicking here has indeed some effects!");
 };
